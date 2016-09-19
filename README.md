@@ -1,8 +1,10 @@
-Name:
+Name: Rui Feng
 
-Compilation and Run Successful:
+Compilation and Run Successful: compiled and run successfully
+                                emulator: Nexis 6 API 19 with Android KitKat
 
-Unit Test Run Successfully:
+
+Unit Test Run Successfully: JUnit tests run and passed.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
